@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.safone.oriclip">
+
+    <application>
+        <activity android:name="com.safone.orivideo.OriVideoActivity"
+            android:screenOrientation="landscape"/>
+        <activity android:name=".OriClipImageActivity" />
+    </application>
+
+</manifest>

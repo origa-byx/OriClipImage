@@ -1,0 +1,3 @@
+include ':oriClip'
+include ':app'
+rootProject.name = "OriImage"
